@@ -1,0 +1,1 @@
+This is a sample app for Google Cloud Build to create Docker image and push to Google Container Registry
